@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-### GitHub Stats:
+### Socials:
 ![https://www.linkedin.com/in/thiago-kevinn-3119961a2/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ### GitHub Stats:
