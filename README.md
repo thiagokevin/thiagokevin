@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
 
 
 ### Hi there 👋
@@ -11,3 +11,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokevin&show_icons=true&theme=outrun) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokevin&hide_progress=true&theme=outrun)
 ##
 ![snake gif](https://github.com/thiagokevin/thiagokevin/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
