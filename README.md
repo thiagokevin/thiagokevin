@@ -5,4 +5,4 @@
 ### GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokevin&show_icons=true&theme=outrun) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokevin&hide_progress=true&theme=outrun)
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thiagokevin/thiagokevin/blob/output/github-contribution-grid-snake.svg)
