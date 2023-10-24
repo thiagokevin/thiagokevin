@@ -15,13 +15,14 @@
 </div>
 
 ##
-### Socials:
+### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kevinn/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thi.kevinn.h0/)
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagokevin)
 ##
 ### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokevin&show_icons=true&theme=outrun) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokevin&hide_progress=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokevin&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokevin&hide_progress=true&theme=transparent)
 ##
 ![snake gif](https://github.com/thiagokevin/thiagokevin/blob/output/github-contribution-grid-snake.svg)
 
@@ -32,6 +33,8 @@
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+### Minhas Contribuiçôes:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagokevin&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagokevin/dio-lab-open-source)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
