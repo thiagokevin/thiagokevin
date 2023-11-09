@@ -32,7 +32,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![GDScript](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=GDScript&logoColor=2CA5E0)
+![GDScript](https://img.shields.io/badge/GDScript-000?style=for-the-badge&logo=GDScript&logoColor=2CA5E0)
 
 ### Minhas Contribuiçôes:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagokevin&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagokevin/dio-lab-open-source)
