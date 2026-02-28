@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: thiagokevin
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg?color_snake=4a4a4a&color_dots=1a1a1a,2a2a2a,3a3a3a,4a4a4a,5a5a5a
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -21,3 +21,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+                
