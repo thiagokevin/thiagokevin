@@ -1,41 +1,84 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Thiago+Kevin;Software+Developer+%26+Game+Developer;Bachelor+in+Information+Systems;Passionate+about+backend+systems;and+immersive+game+experiences;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
+# 🚀 Thiago Kevin  
 
+## 👋 Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+T.Kevin;I'm+26+years+old;I'm+from+Brazil;I'm+currently+a+university+student;of+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
-##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagokevin&bg_color=0d1117&color=E0FFFF&line=7FFFD4&point=E0FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
+🎓 Bacharel em Sistemas de Informação  
+💻 Desenvolvedor Backend  
+🎮 Desenvolvedor de Jogos (Unity & Godot)  
+🐧 Entusiasta de Linux  
+🇧🇷 Brasil  
 
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thiagokevin}/count.svg" /></p> 
-<br>
-</div>
+Sou apaixonado por tecnologia, arquitetura de sistemas e desenvolvimento de jogos.  
+Tenho foco em backend escalável e na criação de experiências imersivas através de mecânicas, IA e design de sistemas.
 
-##
-### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kevinn/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thi.kevinn.h0/)
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagokevin)
-##
-### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagokevin&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokevin&hide_progress=true&theme=transparent)
-##
-![snake gif](https://github.com/thiagokevin/thiagokevin/blob/output/github-contribution-grid-snake.svg)
+---
 
-##
-### Habilidades:
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+## 🧠 Atualmente evoluindo em
+
+- Arquitetura de Software  
+- Estruturas de Dados e Algoritmos  
+- Inteligência Artificial para jogos  
+- Padrões de Projeto  
+- Design de experiências imersivas  
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💻 Linguagens
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![GDScript](https://img.shields.io/badge/GDScript-000?style=for-the-badge&logo=GDScript&logoColor=2CA5E0)
 
-### Minhas Contribuiçôes:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagokevin&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thiagokevin/dio-lab-open-source)
+### 🎮 Game Engines
+![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+### 🖥️ Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
+---
+
+## 🚀 Projetos em Destaque
+
+### 👁️ Jogo de Terror Psicológico (Em desenvolvimento)
+
+Projeto focado em narrativa, atmosfera e tensão psicológica.
+
+Foco em:
+- Sistema de eventos dinâmicos  
+- IA comportamental  
+- Construção de atmosfera  
+- Mecânicas baseadas em percepção  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<img height="180em" src="https://streak-stats.demolab.com?user=thiagokevin&theme=dark&hide_border=true"/>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thiagokevin/thiagokevin/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kevinn/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thi.kevinn.h0/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagokevin)
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como Desenvolvedor de Software, contribuindo para sistemas robustos e experiências interativas de alto impacto, com foco em backend e desenvolvimento de jogos.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
