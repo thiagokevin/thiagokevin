@@ -64,11 +64,6 @@ Foco em:
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thiagokevin/thiagokevin/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kevinn/)
@@ -80,5 +75,11 @@ Foco em:
 ## 🎯 Objetivo Profissional
 
 Atuar como Desenvolvedor de Software, contribuindo para sistemas robustos e experiências interativas de alto impacto, com foco em backend e desenvolvimento de jogos.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thiagokevin/thiagokevin/output/github-contribution-grid-snake.svg" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
